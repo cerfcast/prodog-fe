@@ -100,7 +100,7 @@ h1 {
 }
 
 .dropinput {
-  border: 10px solid black;
+  /* border: 10px solid black; */
   flex-grow: 1;
   display: flex;
   color: transparent;
