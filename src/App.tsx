@@ -24,8 +24,8 @@ function App() {
   };
 
   const handleUpload = async () => {
-    const url = `https://prodog-server.cerfca.st/concat`;
-    //const url = `http://localhost:8000/concat`;
+    const url = `https://prodog-server-cf.cerfca.st/concat`;
+    //const url = `http://localhost:3030/concat`;
     console.log("Someone wants to upload.");
 
     const form = new FormData();
