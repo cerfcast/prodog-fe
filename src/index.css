@@ -54,6 +54,12 @@ h1 {
   flex-direction: column;
   min-height: 800px;
   min-width: 1400px;
+  margin-bottom: 15px;
+}
+
+.container {
+  padding: 0px;
+  padding-bottom: 10px;
 }
 
 .speechoutline {
@@ -131,6 +137,7 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
+  flex: 1 1 auto;
 }
 button:hover {
   border-color: #646cff;

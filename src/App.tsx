@@ -56,7 +56,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div className="container">
       <div className="prodog">
         <div className="speechoutline">
           <div className="speechbubblec">
